@@ -1,0 +1,1 @@
+../../lib/libfreenect.dll.a -lopengl32 -lglu32 D:/Jhonatan/Documentos/DriverPackages/glut-3.7.6-bin/glut32.lib D:/Jhonatan/Documentos/DriverPackages/Pre-built.2/lib/libpthreadGC2.a D:/Jhonatan/Documentos/DriverPackages/libusb-win32-bin-1.2.6.0/lib/gcc/libusb.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,1 @@
+../../lib/libfreenect_sync.dll.a C:/Users/alexn/AppData/Local/Programs/Python/Python36/libs/python3.lib ../../lib/libfreenect.dll.a D:/Jhonatan/Documentos/DriverPackages/libusb-win32-bin-1.2.6.0/lib/gcc/libusb.a D:/Jhonatan/Documentos/DriverPackages/Pre-built.2/lib/libpthreadGC2.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc ..\..\lib\libfreenect_sync.a  CMakeFiles/freenect_sync_static.dir/libfreenect_sync.c.obj
+C:\MinGW\bin\ranlib.exe ..\..\lib\libfreenect_sync.a

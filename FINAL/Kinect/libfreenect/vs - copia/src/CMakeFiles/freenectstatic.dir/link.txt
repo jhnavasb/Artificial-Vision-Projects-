@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc ..\lib\libfreenect.a  CMakeFiles/freenectstatic.dir/core.c.obj CMakeFiles/freenectstatic.dir/tilt.c.obj CMakeFiles/freenectstatic.dir/cameras.c.obj CMakeFiles/freenectstatic.dir/flags.c.obj CMakeFiles/freenectstatic.dir/usb_libusb10.c.obj CMakeFiles/freenectstatic.dir/registration.c.obj CMakeFiles/freenectstatic.dir/audio.c.obj CMakeFiles/freenectstatic.dir/loader.c.obj
+C:\MinGW\bin\ranlib.exe ..\lib\libfreenect.a
